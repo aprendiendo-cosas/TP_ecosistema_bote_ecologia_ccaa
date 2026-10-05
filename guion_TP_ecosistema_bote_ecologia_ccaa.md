@@ -6,24 +6,8 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Una hora o así para encontrar el material y luego unos minutos cada semana para documentar el proceso.
 
-
-
-
-
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/TP_ecosistema_bote_ecologia_ccaa/refs/heads/main/imagenes/portada.jpg)
 
-
-
-[archivo descargable en release](https://github.com/aprendiendo-cosas/[nombre_repo]/raw/refs/tags/2025_2026/presentacion/inventarios_forestales.pptx) 
-
-[archivo descargable Main](https://github.com/aprendiendo-cosas/[nombre_repo]/raw/refs/heads/main/geoinfo/[nombre_archivo].zip)
-
-Mapa mental incrustado en Main:
-
-<iframe
-  src="https://aprendiendo-cosas.github.io/[nombre_repo]/presentacion/publicaciones.html"
-  style="width:100%; height:550px;"
-></iframe>
 
 [TOC]
 
@@ -32,7 +16,43 @@ Mapa mental incrustado en Main:
 
 ## 1 Objetivos 
 
+Los objetivos de esta actividad están relacionados exclusivamente con la ecología, ya que no se pretende entrenar ninguna habilidad instrumental:
 
++ Acompañar el desarrollo de las clases teóricas con un caso práctico que nos puede ayudar a comprender mejor qué es un ecosistema y cómo se va regenerando después de una perturbación.
++ Aprender a transferir el conocimiento adquirido en teoría y en las prácticas a un caso real 
+
+
+
+
+
+## 2. Preparando el tarro con el ecosistema
+
+
+Es la primera vez que hacemos esto, así que estamos aprendiendo todos. Para empezar, os sugiero que sigáis los pasos que se muestran en el siguiente vídeo.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bmjvFwKrMfM?si=zONApMUsy30_rs1H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Como no sé bien cómo nos saldrá el experimento, os animo a que veáis otros vídeos del mismo canal que creó el anterior. También puede ser buena idea iniciar varios tarros con material de diferentes sitios.
+
+Sobre el lugar donde recolectar el material, vale casi cualquier sitio en el que haya agua que no esté putrefacta. Teniendo en cuenta que conozco poco la ciudad de Córdoba, os sugiero estos sitios:
+- Arroyo Rabanales. Lo cruzo cada día en bici para ir a Rabanales. Todavía lleva algo de agua. Aunque hay mucho sedimento orgánico, seguro que se puede tomar agua y algas con algo de arena para iniciar un bote.
+- Embalse que hay en el centro del campus de Rabanales. Es un poco infecto, pero, quién sabe, igual nos sorprende.
+- Parque de Levante. Hay mucha agua corriente en ese parque. Cuando ponen los aspersores (por la mañana y por la tarde) es frecuente encontrar corrientes y charcos en los que hay algo de vida.
+
+## 3. Observando lo que ocurre en el tarro
+
+No tenemos una hipótesis clara sobre lo que va a pasar en el tarro. Pero sí que sería genial que pudiéramos interpretar lo allí ocurrido al final de la asignatura. Esta forma de crear conocimiento se llama abuducción o retroducción. Consiste en documentar los fenómenos que ocurren en un escenario determinado para luego construir una hipótesis explicativa. Esto convierte los hechos en un resultado comprensible, en nuestro caso, bajo los principios ecológicos de autoorganización, ciclos biogeoquímicos, etc. Para conseguir esto y aplicar bien el razonamiento abudictivo, es fundamental documentar bien lo que pasa en el tarro. Por eso, os pediré que completéis una pequeña encuesta cada semana. Así iremos recopilando información sobre los procesos ecológicos y físico-químicos que afectan a nuestros tarros. Para hacer esa recopilación de información usaremos el mismo formulario que ya tenemos en marcha para las prácticas. Cada semana añadiré una nueva pregunta.
+
+### 3.1 Primera pregunta: ¿Cuándo empezaste? ¿qué ves en el tarro?
+
+Para completar la primera pregunta rellena [este](https://script.google.com/macros/s/AKfycbx40ta7IJmMVeXYW7RwXiektBtsGzFAFNYAxcf2Izp5eJpFrMd2FJS-3m9JRXluxxdA1w/exec) formulario de la siguiente forma:
+
+- En el campo "práctica" seleccionar "0 - Ecosistema en un bote"
+- En el campo "sesión" iremos poniendo las distintas fases del experimento. En esta ocasión será la "Sesión 1"
+- En "fecha de inicio de tu experimento" debes de anotar en formato DD/MM/AAAA la fecha en la que empezaste tu tarro. Para el resto de preguntas no habrá un campo de este tipo ya que inferiré la fecha a partir de la que se captura automáticamente por la aplicación.
+- En "Describe lo que ves..." tienes que contar lo que hay en el tarro a la luz de lo que conoces. ¿Ves que hay especies proliferando? ¿de qué manera crees que crece la población, exponencial o logísticamente?, ¿hay competencia?, etc.
+- Evidencias. Aquí, como en las prácticas, podrás subir fotografías que hagas de tu tarro. Si necesitas una lupa para fotografiar algo, dímelo. Tengo una que se conecta al móvil par hacer fotos. 
 
 
 
@@ -47,7 +67,7 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/[nombre_repo]/releases) p
 
 ---
 
-[Aquí](https://github.com/aprendiendo-cosas/[nombre_repo]/blob/2026_2027/notas_imparticion_[nombre_repo].md) puedes ver las notas que tomó el profesor una vez que se impartió la clase.
+[Aquí](https://github.com/aprendiendo-cosas/[nombre_repo]/blob/2026_2027/notas_imparticion_[nombre_repo].md) puedes ver las notas que tomó el profesor sobre el desarrollo de esta actividad
 
 ****
 
