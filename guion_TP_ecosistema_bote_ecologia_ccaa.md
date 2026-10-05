@@ -1,17 +1,16 @@
-# Título
+# Documentando la creación de un ecosistema acuático en un bote...
 
-> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
-> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
 > + **_Versión_**: 2026-2027
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Una hora o así para encontrar el material y luego unos minutos cada semana para documentar el proceso.
 
-![imagen en release](https://raw.githubusercontent.com/aprendiendo-cosas/[nombre_repo]/refs/tags/[nombre_tag]/imagenes/portada.png)
 
 
 
-![imagen en main](https://raw.githubusercontent.com/aprendiendo-cosas/[nombre_repo]/refs/heads/main/imagenes/portada.jpg)
+
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/TP_ecosistema_bote_ecologia_ccaa/refs/heads/main/imagenes/portada.jpg)
 
 
 
