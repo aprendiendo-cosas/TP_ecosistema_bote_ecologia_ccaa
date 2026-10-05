@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Una hora o así para encontrar el material y luego unos minutos cada semana para documentar el proceso.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/TP_ecosistema_bote_ecologia_ccaa/refs/heads/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/TP_ecosistema_bote_ecologia_ccaa/refs/heads/main/imagenes/portada.png)
 
 
 [TOC]
@@ -40,6 +40,8 @@ Sobre el lugar donde recolectar el material, vale casi cualquier sitio en el que
 - Embalse que hay en el centro del campus de Rabanales. Es un poco infecto, pero, quién sabe, igual nos sorprende.
 - Parque de Levante. Hay mucha agua corriente en ese parque. Cuando ponen los aspersores (por la mañana y por la tarde) es frecuente encontrar corrientes y charcos en los que hay algo de vida.
 
+
+
 ## 3. Observando lo que ocurre en el tarro
 
 No tenemos una hipótesis clara sobre lo que va a pasar en el tarro. Pero sí que sería genial que pudiéramos interpretar lo allí ocurrido al final de la asignatura. Esta forma de crear conocimiento se llama abuducción o retroducción. Consiste en documentar los fenómenos que ocurren en un escenario determinado para luego construir una hipótesis explicativa. Esto convierte los hechos en un resultado comprensible, en nuestro caso, bajo los principios ecológicos de autoorganización, ciclos biogeoquímicos, etc. Para conseguir esto y aplicar bien el razonamiento abudictivo, es fundamental documentar bien lo que pasa en el tarro. Por eso, os pediré que completéis una pequeña encuesta cada semana. Así iremos recopilando información sobre los procesos ecológicos y físico-químicos que afectan a nuestros tarros. Para hacer esa recopilación de información usaremos el mismo formulario que ya tenemos en marcha para las prácticas. Cada semana añadiré una nueva pregunta.
@@ -53,6 +55,14 @@ Para completar la primera pregunta rellena [este](https://script.google.com/macr
 - En "fecha de inicio de tu experimento" debes de anotar en formato DD/MM/AAAA la fecha en la que empezaste tu tarro. Para el resto de preguntas no habrá un campo de este tipo ya que inferiré la fecha a partir de la que se captura automáticamente por la aplicación.
 - En "Describe lo que ves..." tienes que contar lo que hay en el tarro a la luz de lo que conoces. ¿Ves que hay especies proliferando? ¿de qué manera crees que crece la población, exponencial o logísticamente?, ¿hay competencia?, etc.
 - Evidencias. Aquí, como en las prácticas, podrás subir fotografías que hagas de tu tarro. Si necesitas una lupa para fotografiar algo, dímelo. Tengo una que se conecta al móvil par hacer fotos. 
+
+
+
+## 4. Resultados
+
+Aquí iré mostrando los resultados más interesantes y las mejores explicaciones que encuentre en vuestras aportaciones.
+
+
 
 
 
